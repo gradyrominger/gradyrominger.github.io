@@ -6,4 +6,5 @@ import react from '@astrojs/react';
 export default defineConfig({
     base: '/',
     integrations: [react()],
+    site: 'https://gradyrominger.github.io',
 });
