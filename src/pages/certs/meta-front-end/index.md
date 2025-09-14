@@ -9,8 +9,6 @@ description: Reflection and onboarding relevance for Meta Front-End Developer Ce
 Completed as part of a refresh for React
 Focused on React, component isolation, and UI
 
----
-
 ## Strategic Relevance
 
 - Reinforces React skills
